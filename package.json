@@ -16,7 +16,7 @@
         "@xaviabot/fb-downloader": "^1.0.14",
         "aes-js": "latest",
         "axios": "latest",
-        "bluebird": "^2.11.0",
+        "bluebird": "^2.11.2",
         "canvas": "^2.11.0",
         "chalk": "4.1.2",
         "chalkercli": "^1.6.4",
